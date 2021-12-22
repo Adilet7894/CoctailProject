@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-image: linear-gradient(rgb(117, 192, 42), rgb(157, 230, 108)) ;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    font-size: 3rem;
+    padding-top: 8rem;
+}
